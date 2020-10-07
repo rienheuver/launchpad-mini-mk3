@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "audic": "^1.0.2",
+    "easymidi": "^2.0.1",
+    "play-sound": "^1.1.3"
+  }
+}
